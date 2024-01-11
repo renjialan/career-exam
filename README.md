@@ -1,3 +1,12 @@
+## Intro
+Have you ever wondered if you are in the right career path?
+This is a seedling project that aims to become a one-stop shop platform that supports career searching and switching.
+
+Key features:
+1. free career assessment to help you *reflect*
+2. suggested career fields to *explore* based on your assessment
+3. continual *support* and mentorship through scheduled video chats with professionals
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
