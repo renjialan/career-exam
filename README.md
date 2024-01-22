@@ -7,6 +7,8 @@ Key features:
 2. suggested career fields to *explore* based on your assessment
 3. continual *support* and mentorship through scheduled video chats with professionals
 
+Design and Product Plan can be found: (https://www.figma.com/files/project/177979925/Career-Guide-App?fuid=1200892229563319612)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
